@@ -1,0 +1,15 @@
+/Users/jomolteberg/repos/gokstad_akademiet/objektorientert_programmering/assignment_3/assignment_3/bin/Debug/net8.0/assignment_3
+/Users/jomolteberg/repos/gokstad_akademiet/objektorientert_programmering/assignment_3/assignment_3/bin/Debug/net8.0/assignment_3.deps.json
+/Users/jomolteberg/repos/gokstad_akademiet/objektorientert_programmering/assignment_3/assignment_3/bin/Debug/net8.0/assignment_3.runtimeconfig.json
+/Users/jomolteberg/repos/gokstad_akademiet/objektorientert_programmering/assignment_3/assignment_3/bin/Debug/net8.0/assignment_3.dll
+/Users/jomolteberg/repos/gokstad_akademiet/objektorientert_programmering/assignment_3/assignment_3/bin/Debug/net8.0/assignment_3.pdb
+/Users/jomolteberg/repos/gokstad_akademiet/objektorientert_programmering/assignment_3/assignment_3/obj/Debug/net8.0/assignment_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jomolteberg/repos/gokstad_akademiet/objektorientert_programmering/assignment_3/assignment_3/obj/Debug/net8.0/assignment_3.AssemblyInfoInputs.cache
+/Users/jomolteberg/repos/gokstad_akademiet/objektorientert_programmering/assignment_3/assignment_3/obj/Debug/net8.0/assignment_3.AssemblyInfo.cs
+/Users/jomolteberg/repos/gokstad_akademiet/objektorientert_programmering/assignment_3/assignment_3/obj/Debug/net8.0/assignment_3.csproj.CoreCompileInputs.cache
+/Users/jomolteberg/repos/gokstad_akademiet/objektorientert_programmering/assignment_3/assignment_3/obj/Debug/net8.0/assignment_3.sourcelink.json
+/Users/jomolteberg/repos/gokstad_akademiet/objektorientert_programmering/assignment_3/assignment_3/obj/Debug/net8.0/assignment_3.dll
+/Users/jomolteberg/repos/gokstad_akademiet/objektorientert_programmering/assignment_3/assignment_3/obj/Debug/net8.0/refint/assignment_3.dll
+/Users/jomolteberg/repos/gokstad_akademiet/objektorientert_programmering/assignment_3/assignment_3/obj/Debug/net8.0/assignment_3.pdb
+/Users/jomolteberg/repos/gokstad_akademiet/objektorientert_programmering/assignment_3/assignment_3/obj/Debug/net8.0/assignment_3.genruntimeconfig.cache
+/Users/jomolteberg/repos/gokstad_akademiet/objektorientert_programmering/assignment_3/assignment_3/obj/Debug/net8.0/ref/assignment_3.dll
