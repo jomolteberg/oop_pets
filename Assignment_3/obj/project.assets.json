@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jomolteberg/repos/gokstad_akademiet/objektorientert_programmering/assignment_3/Assignment_3/assignment_3.csproj",
+      "projectUniqueName": "/Users/jomolteberg/repos/oop_pets/Assignment_3/assignment_3.csproj",
       "projectName": "assignment_3",
-      "projectPath": "/Users/jomolteberg/repos/gokstad_akademiet/objektorientert_programmering/assignment_3/Assignment_3/assignment_3.csproj",
+      "projectPath": "/Users/jomolteberg/repos/oop_pets/Assignment_3/assignment_3.csproj",
       "packagesPath": "/Users/jomolteberg/.nuget/packages/",
-      "outputPath": "/Users/jomolteberg/repos/gokstad_akademiet/objektorientert_programmering/assignment_3/Assignment_3/obj/",
+      "outputPath": "/Users/jomolteberg/repos/oop_pets/Assignment_3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jomolteberg/.nuget/NuGet/NuGet.Config"

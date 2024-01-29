@@ -2,11 +2,12 @@ namespace assignment_3;
 
 public class Pet
 {
-
+	// Encapsulation of fields
     protected string Name { get; set; }
     protected string Noise { get; set; }
     protected string Trick { get; set; }
 
+	// Constructor
     public Pet(string name)
     {
         Name = name;
